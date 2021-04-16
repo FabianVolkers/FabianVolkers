@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=https://github-readme-stats.vercel.app/api?username=fabianvolkers&show_icons=true></img>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianvolkers&show_icons=true)
 
 <!--
 **FabianVolkers/FabianVolkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
